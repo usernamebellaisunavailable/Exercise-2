@@ -1,4 +1,4 @@
-# Exercise 2 - Editing and creating notebooks and practice using Git
+# Exercise 2 - Lists and indices
 
 The exercise for this week is meant to help you better understand data types and lists in Python, and practice saving changes to your files using Git and GitHub.
 
