@@ -5,7 +5,6 @@ The exercise for this week is meant to help you better understand data types and
 For each problem you need to modify the given notebook, and then push your changes to GitHub.
 **Please don't change the file name**, i.e. do all your edits in the provided `Exercise-2.ipynb` -file. 
 
-- Scores on this exercise are out of **20 points**.
 
 ## Where to find help
 
@@ -19,9 +18,11 @@ For each problem you need to modify the given notebook, and then push your chang
 
 There are 3 parts in this week's exercise:
 
- - [Problem 1 - Making changes to code and using Git (7 points)](Exercise-2.ipynb)
- - [Problem 2 - Monthly average temperatures (9 points)](Exercise-2.ipynb)
- - [Problem 3 - Markdown practice (4 points)](Exercise-2.ipynb)
+ - [Problem 1 - Making changes to code and using Git (3 points)](Exercise-2.ipynb)
+ - [Problem 2 - Monthly average temperatures (5 points)](Exercise-2.ipynb)
+ - [Problem 3 - Markdown practice (2 points)](Exercise-2.ipynb)
+ 
+ You can gain 10 points in total from this exercise.
 
 
 ## 
