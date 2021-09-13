@@ -2,12 +2,12 @@
 
 The exercise for this week is meant to help you better understand lists in Python, and practice saving changes to your files using Git and GitHub. You will also get to practice the Markdown syntax. 
 
-Exercise 2 consists of 3 problems. For each problem you need to modify the notebook by adding your own solutions. Remember to save and commit your changes locally, and push your changes to GitHub after each major change! Regular commits will help you to keep track of your changes (and revert them if needed). Pushing your work to GitHub will ensure that you don't lose any work in case your computer crashes (can happen!).
+Exercise 2 consists of 3 problems. For each problem you need to modify the notebook by adding your own solutions. **Remember to save and commit your changes locally, and push your changes to GitHub after each major change**! Regular commits will help you to keep track of your changes (and revert them if needed). Pushing your work to GitHub will ensure that you don't lose any work in case your computer crashes (can happen!).
 
 **Please don't change the file name**, i.e. do all your editing in the provided `Exercise-2.ipynb` file. 
 
 - **Exercise 2 is due by the start of the next lesson (9:15 am, 22 September 2020)**.
-- **We are [working in pairs](https://geo-python-site.readthedocs.io/en/latest/lessons/L2/why-pairs.html) on this exercise**, and we will only grade the repository of the member of your pair that is responsible for this week's exercise.
+- **We are [working in pairs](https://geo-python-site.readthedocs.io/en/latest/lessons/L2/why-pairs.html) on this exercise**, and we will only grade the repository of the driver in your pair for this week's exercise.
 
 ## Where to find help
 
