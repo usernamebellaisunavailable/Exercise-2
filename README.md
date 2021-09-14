@@ -6,7 +6,7 @@ Exercise 2 consists of 3 problems. For each problem you need to modify the noteb
 
 **Please don't change the file name**. Do all of your editing in the provided `Exercise-2.ipynb` file. 
 
-- **Exercise 2 is due by the start of the next lesson (9:15 am, 22 September 2020)**.
+- **Exercise 2 is due by the start of the next lesson (9:15 am, 22 September 2021)**.
 - **We are [working in pairs](https://geo-python-site.readthedocs.io/en/latest/lessons/L2/why-pairs.html) on this exercise**, and we will only grade the repository of the driver in your pair for this week's exercise.
 
 ## Where to find help
